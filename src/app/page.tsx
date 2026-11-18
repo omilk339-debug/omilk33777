@@ -89,7 +89,7 @@ export default function Home() {
   return (
     <main className="mx-auto max-w-xl px-4 py-8 sm:py-12">
       <header className="mb-6 text-center">
-        <h1 className="text-2xl font-extrabold sm:text-3xl">🎱 로또 번호 추천기</h1>
+        <h1 className="text-2xl font-extrabold sm:text-3xl">🎱 로또번호추첨기</h1>
         <p className="mt-2 text-sm text-zinc-500">1~45 중 6개 번호를 무작위로 골라 드려요.</p>
       </header>
 
